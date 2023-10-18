@@ -24,6 +24,11 @@
     margin: 1rem;
     cursor: pointer;
 }
+.desktopMenuListIteam:hover {
+    color: yellow;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px yellow;
+}
 
 .desktopMenuBtn{
 
@@ -50,3 +55,5 @@
     color: rgba(255, 255, 255, 1);
     box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
   }
+
+
