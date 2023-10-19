@@ -1,6 +1,6 @@
 .navbar {
     height: 5rem;
-    width: 100vw;
+    width: 100%;
     max-width: 75rem;
     margin: 0 auto;
     padding: 1rem 2rem;
@@ -10,6 +10,7 @@
     position: sticky;
     top: 0;
     z-index: 3;
+
 
 
 }
@@ -34,9 +35,9 @@
 
 
     text-decoration: none;
-    color: rgba(255, 255, 255, 0.8);
-    background: rgb(145, 92, 182);
-    padding: 10px 20px;
+    color: rgba(0, 0, 0, 0.8);
+    background: rgb(212, 209, 214);
+    padding: 7px 15px;
     border-radius: 4px;
     font-weight: normal;
     text-transform: uppercase;
@@ -52,8 +53,8 @@
 }
 
 .desktopMenuBtn:hover {
-    color: rgba(255, 255, 255, 1);
-    box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
+    color: rgb(54, 139, 179);
+    box-shadow: 0 5px 15px rgba(72, 124, 155, 0.4);
   }
 
 

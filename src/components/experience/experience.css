@@ -1,0 +1,51 @@
+.experience {
+    display: flex; 
+    justify-content: space-between; 
+    margin: 5rem;
+  }
+  
+  .experience-box {
+    width: 100vh;
+    padding: 2rem;
+    margin-left: 5rem;
+    margin-right: 1rem;
+    border: 5px dashed white; 
+    border-radius: 5px;
+    color: rgb(230, 230, 230);
+    justify-content: space-between;
+
+  }
+  
+  .experience-box h2 {
+    font-size: 1.5rem;
+  }
+  
+  .experience-box p {
+    font-size: 1rem;
+  }
+  
+  .experience-box ul {
+    list-style: disc;
+    padding-left: 20px;
+  }
+  
+  .experience-box li {
+    font-size: 0.9rem;
+  }
+  
+
+.skills-list {
+    list-style: square;
+    padding: auto ;
+    display: flex;
+    flex-wrap:wrap;
+
+  }
+  
+  .skills-list li {
+    margin-top: 1rem;
+    margin-right: 1.5rem; 
+    padding: 2px;
+
+  }
+  

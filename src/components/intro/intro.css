@@ -4,6 +4,7 @@
     max-width: 75rem;
     margin: 0 15rem;
     overflow: hidden;
+
 }
 
 .bg {
@@ -44,6 +45,7 @@
 }
 
 .btn {
+
     background: white;
     margin: 1rem 0;
     padding: 0.75rem 2rem;
