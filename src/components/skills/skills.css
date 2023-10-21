@@ -1,0 +1,19 @@
+.about {
+    height: calc(100vh - 4rem);
+    width: 100vh;
+    max-width: 75rem;
+    margin: 0 15rem;
+    overflow: hidden;
+
+}
+
+.what {
+    margin-top: 4rem;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.aboutContent {
+    margin-top: 2rem;
+    text-align: center;
+}
